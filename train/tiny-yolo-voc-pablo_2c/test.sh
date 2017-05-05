@@ -6,7 +6,7 @@ TRAIN_DIR=/root/src/darknet/train/tiny-yolo-voc-pablo_2c
 TEST_DIR=$TRAIN_DIR/test
 DATA_FILE=$TRAIN_DIR/tiny-yolo-voc-pablo_2c.data
 CFG_FILE=$TRAIN_DIR/tiny-yolo-voc-pablo_2c.cfg
-WEIGHTS_FILE=/root/src/models/train/tiny-yolo-voc-pablo_2c_final.weights
+WEIGHTS_FILE=/root/src/models/train/tiny-yolo-voc-pablo_2c/tiny-yolo-voc-pablo_2c_final.weights
 
 cd $BASE_DIR
 
