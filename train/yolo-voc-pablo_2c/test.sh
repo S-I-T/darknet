@@ -15,7 +15,7 @@ for FILE in $TEST_DIR/*.jpg
 do
   echo "Procesando $f..."
   ./darknet detector test $DATA_FILE $CFG_FILE $WEIGHTS_FILE $FILE
-  mv predictions.png ${PREFIX}_${FILE##*/}.png
+  mv predictions.png $TRAIN_DIR/${PREFIX}_${FILE##*/}.png
 done
 
 
