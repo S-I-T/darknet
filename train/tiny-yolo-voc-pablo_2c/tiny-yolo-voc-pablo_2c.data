@@ -2,5 +2,5 @@ classes = 2
 train   = /root/src/darknet/train/tiny-yolo-voc-pablo_2c/train.txt
 valid   = /root/src/darknet/train/tiny-yolo-voc-pablo_2c/valid.txt
 names   = /root/src/darknet/train/tiny-yolo-voc-pablo_2c/tiny-yolo-voc-pablo_2c.names
-backup  = /root/src/models/train
+backup  = /root/models/train
 
