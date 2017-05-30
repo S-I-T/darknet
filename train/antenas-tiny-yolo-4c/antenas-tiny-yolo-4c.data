@@ -1,6 +1,6 @@
 classes = 2
 train   = /root/src/darknet/train/antenas-tiny-yolo-4c/antenas-tiny-yolo-4c.training_list.txt
-valid   = /root/src/darknet/train/antenas-tiny-yolo-4c/antenas-tiny-yolo-4c.valid.txt
+valid   = /root/src/darknet/train/antenas-tiny-yolo-4c/antenas-tiny-yolo-4c.training_list.txt
 names   = /root/src/darknet/train/antenas-tiny-yolo-4c/antenas-tiny-yolo-4c.names
 backup  = /root/models/train/antenas-tiny-yolo-4c
 
