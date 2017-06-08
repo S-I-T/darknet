@@ -6,7 +6,7 @@ TRAIN_DIR=/root/src/darknet/train/$PREFIX
 
 DATA_FILE=$TRAIN_DIR/${PREFIX}.data
 CFG_FILE=$TRAIN_DIR/${PREFIX}.cfg
-WEIGHTS_FILE=/root/models/public/darknet19_448.conv.23
+WEIGHTS_FILE=/root/models/public/extraction.conv.weights
 
 
 cd $BASE_DIR
