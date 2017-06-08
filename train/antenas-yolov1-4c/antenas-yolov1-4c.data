@@ -1,0 +1,6 @@
+classes = 4
+train   = /root/src/darknet/train/antenas-yolov1-4c/antenas-yolov1-4c.training_list.txt
+valid   = /root/src/darknet/train/antenas-yolov1-4c/antenas-yolov1-4c.training_list.txt
+names   = /root/src/darknet/train/antenas-yolov1-4c/antenas-yolov1-4c.names
+backup  = /root/models/train/antenas-yolov1-4c
+
